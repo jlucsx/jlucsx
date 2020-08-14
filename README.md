@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm J.A. Lucas Lima.
 
-I'm a self-taught progammer, civil engineering student and a :earth_americas: brazilian young man. I love to solve problems of my common life with programming. The IT world always got me with stars in my eyes and it's being very fun to learn web development and other computer science stuff.
+I'm a self-taught progammer, civil engineering student and a :earth_americas: brazilian young man. I love to solve problems of my common life with programming. The IT world always got me with stars in my eyes and it's being so much fun to learn web development and other computer science stuff.
 
 - :dart: My goal is to become a fullstack programmer.
 - 🔭 I'm currently working on my Personal Linear Equation System Solver - PLESS 1.0. It is what actually made me want to learn to program at all.
