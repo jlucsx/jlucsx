@@ -10,7 +10,7 @@ I'm a self-taught progammer, civil engineering student and a :earth_americas: br
 - 🤔 I’m looking to help people's lives and work to be simpler and satisfying with the help of programming.
 - 💬 Ask me about mathematics and engineering physics and I will surely help you! xD
 - 📫 How to reach me: 
-    <br>    [![Gmail Badge](https://img.shields.io/badge/-jalucaslima.contatol@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jalucaslima.contato@gmail.com)](mailto:jalucaslima.contato@gmail.com)
+    <br>    [![Gmail Badge](https://img.shields.io/badge/-jalucaslima.contato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jalucaslima.contato@gmail.com)](mailto:jalucaslima.contato@gmail.com)
     <br>    [![Facebook Badge](https://img.shields.io/badge/-LucasLima-0000ff?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/j.a.lucas.lima)](https://facebook.com/j.a.lucas.lima)
     <br>    [![Linkedin Badge](https://img.shields.io/badge/-LucasLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-adalberto-lucas-lima-7a8226129/)](https://www.linkedin.com/in/jos%C3%A9-adalberto-lucas-lima-7a8226129/)
 - 😄 Pronoun: He/Him
