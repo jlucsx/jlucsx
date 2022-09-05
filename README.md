@@ -13,4 +13,4 @@ I'm a self-taught progammer, student and a :earth_americas: brazilian young man.
     <br>    [![Linkedin Badge](https://img.shields.io/badge/-LucasLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-adalberto-lucas-lima-7a8226129/)](https://www.linkedin.com/in/jos%C3%A9-adalberto-lucas-lima-7a8226129/)
 - 😄 Pronoun: He/Him
 - ⚡ Fun fact: I like to testing things and always use the exact specifications of any cooking recipe.
-- :computer: My current knowledge : HTML, CSS, Javascript, and C#.
+- :computer: My current knowledge : HTML, CSS, Javascript, Python and C#.
