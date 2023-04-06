@@ -9,7 +9,7 @@ I'm a self-taught progammer, student and a :earth_americas: brazilian young man.
 - 💬 Ask me about mathematics and engineering physics and I will surely help you! xD
 - 📝 I'm currently learning about Algorithms and Data Structures (with Karumanchi's book). Besides, I've chosen and am focusing on .NET (C#).
 - 📫 How to reach me:
-    <br>    [![Gmail Badge](https://img.shields.io/badge/-jalucas.jall@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jalucas.jall@gmail.com)](mailto:jalucaslima.contato@gmail.com)
+    <br>    [![Gmail Badge](https://img.shields.io/badge/-jalucas.jall@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jalucas.jall@gmail.com)](mailto:jalucas.jall@gmail.com)
     <br>    [![Linkedin Badge](https://img.shields.io/badge/-LucasLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-adalberto-lucas-lima-7a8226129/)](https://www.linkedin.com/in/j-a-lucas-lima/)
 - 😄 Pronoun: He/Him
 - ⚡ Fun fact: I like to testing things and always use the exact specifications of any cooking recipe.
