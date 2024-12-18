@@ -11,6 +11,3 @@ I'm a self-taught progammer, student and a :earth_americas: brazilian young man.
 - 📫 How to reach me:
     <br>    [![Gmail Badge](https://img.shields.io/badge/-jalucas.jall@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jalucas.jall@gmail.com)](mailto:jalucas.jall@gmail.com)
     <br>    [![Linkedin Badge](https://img.shields.io/badge/-LucasLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-adalberto-lucas-lima-7a8226129/)](https://www.linkedin.com/in/j-a-lucas-lima/)
-- 😄 Pronoun: He/Him
-- ⚡ Fun fact: I love to test things to it's limits. And also always use the exact specifications of any cooking recipe.
-- :computer: Currently I'm working with web technologies using Typescript, Python and C#, according to the problem to be solved.
